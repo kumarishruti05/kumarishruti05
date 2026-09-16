@@ -1,4 +1,4 @@
-## Hi there, I'm Shruti Kumari👋
+## Hi devs, I'm Shruti Kumari👋
 
 - 💻 Proficient in Java, OOPs and Data Structure Algorithm.
 - ⚙️ Building backend applications and improving my software development skills.

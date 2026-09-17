@@ -1,6 +1,6 @@
-## Hey devs, I'm Shruti Kumari👋
+## Hey devs, it's Shruti👋
 
-- 💻 Proficient in Java, OOPs and Data Structure Algorithm.
+- 💻 I'm proficient in Java, OOPs and Data Structure Algorithms.
 - ⚙️ Building backend applications and improving my software development skills.
 - 🌱 Currently honing in Spring Boot, Microservices, REST API, MySQL.
 - 🤝 Open to internships and collaboration with Java Backend Development projects.

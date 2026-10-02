@@ -1,4 +1,4 @@
-## Hey, it's Shruti 
+## Hi devs, I'm Shruti 
 
 - 💻 I'm proficient in Java, OOPs and Data Structure Algorithms.
 - ⚙️ Building Backend Applications and improving my Software Development skills.

@@ -2,7 +2,7 @@
 
 - 💻 Proficient in Java, OOPs and Data Structure Algorithms.
 - ⚙️ Building Backend Applications and improving my Software Development skills.
-- 🌱 Currently honing in Spring Boot, Microservices, RESTful APIs and MySQL.
+- 🌱 Currently honing in Spring Boot, JDBC, Microservices, RESTful APIs and MySQL.
 - 🤝 Open to internships and collaboration with AI, Java Backend Development projects.
 - 📧 Reach me through: kumarishruti2845@gmail.com
 
